@@ -2,7 +2,7 @@
     <div>
         <v-card
         class="mx-auto"
-        max-width="1600">
+        max-width="1000">
             <v-system-bar
             color="indigo darken-2"
             dark
@@ -10,7 +10,7 @@
             <v-spacer></v-spacer>
             </v-system-bar>
 
-            <v-toolbar
+            <v-toolbar class="animate__animated animate__backInDown"
             color="indigo"
             dark>
             <v-toolbar-title>Sebastián Espinoza</v-toolbar-title>
@@ -20,11 +20,11 @@
             <v-container fluid>
                 <v-row dense>
                     <v-card class="d-flex justify-space-around" flat tile>
-                        <v-card class="d-flex lg 2 pa-5" outlined tile>
+                        <v-card class="d-flex lg 2 pa-5 animate__animated animate__backInLeft" outlined tile>
                             ingresar foto aqui
                         </v-card>
 
-                        <v-card class="pa-5" outlined tile>
+                        <v-card class="pa-5 animate__animated animate__backInRight" outlined tile>
                             Soy Sebastián Espinoza, de 28 años, egresado de la carrera Ingeniería en informática de Inacap. 
                             Busco desempeñarme como desarrollador Front End, y también aprender más sobre el área de 
                             Back End.
@@ -35,7 +35,7 @@
                     </v-card>
                 </v-row>
                 <v-row dense>
-                        <v-card class="d-flex justify-space-around" outlined tile>
+                        <v-card class="d-flex justify-space-around animate__animated animate__backInDown" outlined tile>
                             <v-list-item three-line>
                                 <v-list-item-content>
                                     <v-list-item-title class="text-h5">
@@ -75,7 +75,7 @@
 
                 <v-row dense>
                     <v-card class="d-flex justify-space-around" flat tile>
-                        <v-card class="d-flex justify-space-around" outlined tile>
+                        <v-card class="d-flex justify-space-around animate__animated animate__backInLeft" outlined tile>
                             <v-list-item three-line>
                                 <v-list-item-content>
                                     <v-list-item-title class="text-h5">
@@ -92,7 +92,7 @@
                             </v-list-item>
                         </v-card>
 
-                        <v-card class="d-flex justify-space-around" outlined tile>
+                        <v-card class="d-flex justify-space-around animate__animated animate__backInRight" outlined tile>
                             <v-list-item three-line>
                                 <v-list-item-content>
                                     <v-list-item-title class="text-h5">
@@ -125,7 +125,7 @@
                 </v-row>
                 
                 <v-row dense>
-                    <v-card class="d-flex justify-space-around" outlined tile>
+                    <v-card class="d-flex justify-space-around animate__animated animate__backInDown" outlined tile>
                             <v-list-item three-line>
                                 <v-list-item-content>
                                     <v-list-item-title class="text-h5">
@@ -165,6 +165,7 @@
     </div>  
 </template>
 <script>
+import 'animate.css';
   export default {
     data: () => ({
       
