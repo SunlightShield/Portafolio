@@ -4,7 +4,7 @@
       <!--CARD DE INICIO-->
       <v-card>
         <v-card-title class="headline">
-          Bienvenido a mi pagina
+          Bienvenido a mi pagina (en construcción)
         </v-card-title>
         <v-card-text>
           <p>Soy Sebastian Espinoza, un programador de 28 años, en busqueda de un nuevo trabajo</p>
