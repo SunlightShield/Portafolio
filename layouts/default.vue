@@ -74,7 +74,7 @@ export default {
         },
       ],
       rightDrawer: true,
-      title: 'Sebastian Espinoza, desarrollador web'
+      title: 'Sebastián Espinoza, desarrollador web'
     }
   }
 }

@@ -82,11 +82,11 @@
                                     Mis datos de contacto
                                     </v-list-item-title>
                                     <v-card-text>
-                                        Santiago de Chile, Maipu<br/>
+                                        Santiago de Chile, Maipú<br/>
                                         Teléfono +56971489720<br/>
                                         E-mail sespinozahenriquez@gmail.com<br/>
                                         Git: <a href="https://github.com/SunlightShield">https://github.com/SunlightShield</a><br/>
-                                        Linkedin: <a href="www.linkedin.com/in/sebastián-espinoza-hénriquez-367b4516a">www.linkedin.com/in/sebastian-espinoza-henriquez</a><br/>
+                                        Linkedin: <a href="www.linkedin.com/in/sebastián-espinoza-hénriquez-367b4516a">www.linkedin.com/in/sebastián-espinoza-henriquez</a><br/>
                                     </v-card-text>
                                 </v-list-item-content>
                             </v-list-item>

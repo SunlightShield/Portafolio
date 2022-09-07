@@ -4,18 +4,18 @@
       <!--CARD DE INICIO-->
       <v-card>
         <v-card-title class="headline">
-          Bienvenido a mi pagina (en construcción)
+          Bienvenido a mi página (en construcción)
         </v-card-title>
         <v-card-text>
-          <p>Soy Sebastian Espinoza, un programador de 28 años, en busqueda de un nuevo trabajo</p>
+          <p>Soy Sebastián Espinoza, un programador de 28 años, en búsqueda de un nuevo trabajo</p>
           <p>
-            En esta pagina exhibo mis trabajos y experiencias, ademas de mi curriculum. Casi todos orientados al area de Front End
+            En esta página exhibo mis trabajos y experiencias, además de mi currículum. Casi todos orientados al área de Front End
           </p>
           <p>
-            Tambien tengo conocimientos en lenguajes como C#, y java.
+            También tengo conocimientos en lenguajes como C#, y Java.
           </p>
 
-          <p>Gracias por visitar mi pagina! </p>
+          <p>Gracias por visitar mi página! </p>
           <br>
           <a
             href="https://github.com/SunlightShield"
@@ -45,9 +45,9 @@
           Mis proyectos
         </v-card-title>
         <v-card-text>
-          <p>En la siguiente pagina podra ver todos los proyectos que he publicado enmi pagina de github</p>
+          <p>En la siguiente página podrá ver todos los proyectos que he publicado en mi perfil de GitHub</p>
           <p>
-            La mayoria de mis proyectos estan orientados al area de Front, usando Javascript, HTML y CSS, pero tambien tengo
+            La mayoría de mis proyectos están orientados al área de Front, usando Javascript, HTML y CSS, pero también tengo
             una aplicación de escritorio creada en C# 
           </p>
         </v-card-text>

@@ -7,7 +7,7 @@
     <div class="content">
       <div>
         <h2>Calculadora de edad</h2>
-        <p>Una calcula que despliega con exactitud cuantos dias, meses y años han pasado desde una fecha intrducida por el usuario. creado con JS, HTML Y CSS
+        <p>Una calculadora que despliega con exactitud cuantos días, meses y años han pasado desde una fecha intrducida por el usuario, creado con JS, HTML Y CSS
         </p>
         <button @click="iraCalculadoraJS()">
           <span>Ir al Repositorio</span>  
@@ -22,7 +22,7 @@
     <div class="content">
       <div>
         <h2>Mantenedor Bodega</h2>
-        <p>Un sencillo mantenedor de bodega, permite la creación, eliminacion y modificación de productos, ademas de generar reportes y codigos de barra
+        <p>Un sencillo mantenedor de bodega, permite la creación, eliminacion y modificación de productos, además de generar reportes y códigos de barra
           usando una base de datos SQL
         </p>
         <button @click="iraBodega()">
@@ -37,8 +37,8 @@
     </div>
     <div class="content">
       <div>
-        <h2>Proximamente</h2>
-        <p>solo un placeholder para el siguiente proyecto
+        <h2>Próximamente</h2>
+        <p>Solo un placeholder para el siguiente proyecto
         </p>
       </div>
     </div>
