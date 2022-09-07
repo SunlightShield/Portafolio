@@ -97,13 +97,13 @@
         </v-card-text>
         <v-card-actions>
           <v-spacer />
-          <v-btn
-            color="primary"
-            nuxt
-            to="/inspire"
-          >
-            Continue
-          </v-btn>
+          <button @click="iraProyectos()">
+            <div class="box-1">
+              <div class="btn btn-one">
+                <span>Proyectos</span>
+              </div>
+            </div>    
+          </button> 
         </v-card-actions>
       </v-card>
       <!--FIN CARD DE Proyectos-->
@@ -287,6 +287,9 @@ export default {
   methods:{
    iraCV(){
    this.$router.push('/CV'); 
+      },
+      iraProyectos(){
+   this.$router.push('/Proyectos'); 
       }
   },
 }
