@@ -2,39 +2,59 @@
     <div class="container">
   <div class="box">
     <div class="imgBx">
-      <img src="https://www.mckinsey.com/~/media/mckinsey/industries/public%20and%20social%20sector/our%20insights/how%20to%20make%20a%20city%20great/citiesnew_largefeature_1536x1152.jpg">
+      <img src="~/assets/img/CalcEdad.PNG">
     </div>
     <div class="content">
       <div>
-        <h2>Image Title</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi accusamus molestias quidem iusto.
+        <h2>Calculadora de edad</h2>
+        <p>Una calcula que despliega con exactitud cuantos dias, meses y años han pasado desde una fecha intrducida por el usuario. creado con JS, HTML Y CSS
         </p>
+        <button @click="iraCalculadoraJS()">
+          <span>Ir al Repositorio</span>  
+        </button>
       </div>
     </div>
   </div>
   <div class="box">
     <div class="imgBx">
-      <img src="https://iso.500px.com/wp-content/uploads/2014/07/big-one.jpg">
+      <img src="~/assets/img/cbodega.PNG">
     </div>
     <div class="content">
       <div>
-        <h2>Image Title</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi accusamus molestias quidem iusto.
+        <h2>Mantenedor Bodega</h2>
+        <p>Un sencillo mantenedor de bodega, permite la creación, eliminacion y modificación de productos, ademas de generar reportes y codigos de barra
+          usando una base de datos SQL
         </p>
+        <button @click="iraBodega()">
+          <span>Ir al Repositorio</span>  
+        </button>
       </div>
     </div>
   </div>
   <div class="box">
     <div class="imgBx">
-      <img src="https://images.immediate.co.uk/production/volatile/sites/25/2020/04/Things-never-knew-astronomy-e454e5d.jpg">
+      <img src="">
     </div>
     <div class="content">
       <div>
-        <h2>Image Title</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi accusamus molestias quidem iusto.
+        <h2>Proximamente</h2>
+        <p>solo un placeholder para el siguiente proyecto
         </p>
       </div>
     </div>
   </div>
 </div>
 </template>
+<script>
+export default {
+  name: 'IndexPage',
+  methods:{
+   iraCalculadoraJS(){
+   window.location.href = "https://github.com/SunlightShield/Calculadora_edad_JS" 
+      },
+      iraBodega(){
+   window.location.href = "https://github.com/SunlightShield/Mantenedor_bodega" 
+      }
+  },
+}
+</script>
