@@ -64,11 +64,6 @@ export default {
         },
         {
           icon: 'mdi-chart-bubble',
-          title: 'Sobre mi',
-          to: '/sobremi'
-        },
-        {
-          icon: 'mdi-chart-bubble',
           title: 'CV',
           to: '/CV'
         },
