@@ -33,13 +33,16 @@
   </div>
   <div class="box">
     <div class="imgBx">
-      <img src="">
+      <img src="~/assets/img/todo-list.PNG">
     </div>
     <div class="content">
       <div>
-        <h2>Próximamente</h2>
-        <p>Solo un placeholder para el siguiente proyecto
+        <h2>Lista de quehaceres </h2>
+        <p>una lista de quehaceres, creada en JS, HTML y CSS
         </p>
+        <button @click="iraTodo()">
+          <span>Ir al Repositorio</span>  
+        </button>
       </div>
     </div>
   </div>
@@ -54,6 +57,9 @@ export default {
       },
       iraBodega(){
    window.location.href = "https://github.com/SunlightShield/Mantenedor_bodega" 
+      },
+      iraTodo(){
+   window.location.href = "https://github.com/SunlightShield/To-doJS" 
       }
   },
 }

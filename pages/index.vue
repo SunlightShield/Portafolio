@@ -84,4 +84,5 @@ export default {
       }
   },
 }
+console.log("hola gabriel");
 </script>
