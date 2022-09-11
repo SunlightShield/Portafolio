@@ -25,8 +25,9 @@
            Mi GitHub
           </a>
         </v-card-text>
-        <v-card-actions>
-          <v-spacer />
+        </v-card>
+        <v-card>
+          <v-card-actions class="justify-space-between">
             <div class="box-1">
               <button @click="iraCV()">
                 <div class="btn btn-one">
@@ -34,7 +35,14 @@
                 </div>
               </button>  
             </div>
-        </v-card-actions>
+              <div class="box-3">
+                <button @click="iraGit()">
+                  <div class="btn btn-one">
+                    <span>Ir a GitHub</span>
+                  </div>
+                </button>  
+            </div>
+          </v-card-actions>
       </v-card>
       <!--FIN CARD DE INICIO-->
 
@@ -81,6 +89,9 @@ export default {
       },
       iraProyectos(){
    this.$router.push('/Proyectos'); 
+      },
+      iraGit(){
+   window.location.href = "https://github.com/SunlightShield" 
       }
   },
 }

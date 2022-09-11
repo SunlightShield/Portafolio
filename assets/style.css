@@ -7,8 +7,9 @@ div[class*=box] {
     align-items: center;
   }
 
-.box-1 { background-color: #FF6766; }
+.box-1 { background-color: #f73c3c; }
 .box-2 { background-color: #4d31ec; }
+.box-3 { background-color: #a51ddb; }
 
 .btn-one {
     color: #FFF;
