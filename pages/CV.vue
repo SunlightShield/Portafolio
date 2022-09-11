@@ -17,7 +17,7 @@
                         <v-row dense>
                             <v-card class="d-flex justify-space-around" flat tile>
                                 <v-card class="d-flex lg 2 pa-5 animate__animated animate__backInLeft" outlined tile>
-                                    ingresar foto aqui
+                                    <!--insertar foto-->
                                 </v-card>
 
                                 <v-card class="pa-5 animate__animated animate__backInRight" outlined tile>
