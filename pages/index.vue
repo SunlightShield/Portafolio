@@ -7,7 +7,7 @@
           Bienvenido a mi página (en construcción)
         </v-card-title>
         <v-card-text>
-          <p>Soy Sebastián Espinoza, un programador de 28 años, en búsqueda de un nuevo trabajo</p>
+          <p>Soy Sebastián Espinoza, un programador chileno de 28 años, en búsqueda de un nuevo trabajo</p>
           <p>
             En esta página exhibo mis trabajos y experiencias, además de mi currículum. Casi todos orientados al área de Front End
           </p>
