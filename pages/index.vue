@@ -8,6 +8,9 @@
         </v-card-title>
         <v-card-text>
           <p>Soy Sebastián Espinoza, un programador chileno de 28 años, en búsqueda de un nuevo trabajo</p>
+          <p>Actualmente me encuentro trabajando en la empresa Soluziona, como desarrollador Front end, trabajamos con React, y C# para el backend.
+            me estoy entrenando para trabajar en el backend de mis propios proyectos.
+          </p>
           <p>
             En esta página exhibo mis trabajos y experiencias, además de mi currículum. Casi todos orientados al área de Front End
           </p>

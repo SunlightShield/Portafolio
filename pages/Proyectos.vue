@@ -2,6 +2,25 @@
     <div class="container">
   <div class="box">
     <div class="imgBx">
+      <img src="~/assets/img/Tarjeta.PNG">
+    </div>
+    <div class="content">
+      <div>
+        <h2>Tarjeta de credito, maqueta funcional</h2>
+        <p>Usando React, he completado como ejercicio una tarjeta de credito. genera de forma random cada clave numerica, expiración y CVC
+          ademas en una tarjeta situada en la misma pagina, se puedne comprar los valores con validaciones sencillas. 
+        </p>
+        <button @click="iraTarjeta()">
+          <span>Ir al Repositorio</span>  
+        </button>
+      </div>
+    </div>
+  </div>
+
+
+
+  <div class="box">
+    <div class="imgBx">
       <img src="~/assets/img/CalcEdad.PNG">
     </div>
     <div class="content">
@@ -60,6 +79,9 @@ export default {
       },
       iraTodo(){
    window.location.href = "https://github.com/SunlightShield/To-doJS" 
+      },
+      iraTarjeta(){
+   window.location.href = "https://github.com/SunlightShield/Tarjeta-Credito" 
       }
   },
 }
