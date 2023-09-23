@@ -21,7 +21,7 @@
                                 </v-card>
 
                                 <v-card class="pa-5 animate__animated animate__backInRight" outlined tile>
-                                    Soy Sebastián Espinoza, de 28 años, egresado de la carrera Ingeniería en informática de Inacap. 
+                                    Soy Sebastián, egresado de la carrera Ingeniería en informática de Inacap. 
                                     Busco desempeñarme como desarrollador Front End, y también aprender más sobre el área de 
                                     Back End.
                                     Aparte de las experiencias mencionadas más abajo, también me he desempeñado en diversas áreas, 
@@ -78,11 +78,11 @@
                                             Mis datos de contacto
                                             </v-list-item-title>
                                             <v-card-text>
-                                                Santiago de Chile, Maipú<br/>
-                                                Teléfono +56971489720<br/>
-                                                E-mail sespinozahenriquez@gmail.com<br/>
+                                                Santiago de Chile<br/>
+                                                <!-- Teléfono +56971489720<br/> -->
+                                                <!-- E-mail sespinozahenriquez@gmail.com<br/> -->
                                                 Git: <a href="https://github.com/SunlightShield">https://github.com/SunlightShield</a><br/>
-                                                Linkedin: <a href="www.linkedin.com/in/sebastián-espinoza-hénriquez-367b4516a">www.linkedin.com/in/sebastián-espinoza-henriquez</a><br/>
+                                                <!-- Linkedin: <a href="www.linkedin.com/in/sebastián-espinoza-hénriquez-367b4516a">www.linkedin.com/in/sebastián-espinoza-henriquez</a><br/> -->
                                             </v-card-text>
                                         </v-list-item-content>
                                     </v-list-item>
@@ -179,7 +179,7 @@
                         <v-row dense>
                             <v-card class="d-flex justify-space-around" flat tile>
                                 <v-card class="pa-5 animate__animated animate__backInRight" outlined tile>
-                                    Soy Sebastián Espinoza, de 28 años, egresado de la carrera Ingeniería en informática de Inacap. 
+                                    Soy Sebastián, egresado de la carrera Ingeniería en informática de Inacap. 
                                     Busco desempeñarme como desarrollador Front End, y también aprender más sobre el área de 
                                     Back End.
                                     Aparte de las experiencias mencionadas más abajo, también me he desempeñado en diversas áreas, 
@@ -235,11 +235,11 @@
                                             Mis datos de contacto
                                             </v-list-item-title>
                                             <v-card-text>
-                                                Santiago de Chile, Maipú<br/>
-                                                Teléfono +56971489720<br/>
-                                                E-mail sespinozahenriquez@gmail.com<br/>
+                                                Santiago de Chile<br/>
+                                                <!-- Teléfono +56971489720<br/> -->
+                                                <!-- E-mail sespinozahenriquez@gmail.com<br/> -->
                                                 Git: <a href="https://github.com/SunlightShield">https://github.com/SunlightShield</a><br/>
-                                                Linkedin: <a href="www.linkedin.com/in/sebastián-espinoza-hénriquez-367b4516a">www.linkedin.com/in/sebastián-espinoza-henriquez</a><br/>
+                                                <!-- Linkedin: <a href="www.linkedin.com/in/sebastián-espinoza-hénriquez-367b4516a">www.linkedin.com/in/sebastián-espinoza-henriquez</a><br/> -->
                                             </v-card-text>
                                         </v-list-item-content>
                                 </v-list-item>
